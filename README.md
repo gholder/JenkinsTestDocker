@@ -1,4 +1,4 @@
-Change to the README to trigger docker cleanup
+Change to the README to trigger docker cleanup  
 
 ![](https://brainard-jenkins-test.psych.upenn.edu/buildStatus/icon?job=Docker%20Cleanup)
 
