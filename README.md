@@ -6,7 +6,7 @@ Change to the README to trigger docker cleanup
 [view](https://brainard-jenkins-test.psych.upenn.edu/job/Docker%20Cleanup/)
 
 Change to the README to trigger docker cleanup
-# Another change to the readme file
+Another change to the readme file
 Another change to the readme file
 Another change to the readme file
 Another change to the readme file
